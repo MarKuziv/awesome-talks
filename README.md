@@ -162,6 +162,10 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 #### Databases
 
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** [1:06:23]
+* [Things Every Developer Absolutely, Positively Needs To Know About Database Indexing](https://www.youtube.com/watch?v=HubezKbFL7E) by **Kai Sassnowski** [41:49]
+
+#### Hibernate
+* [Java Persistence and Hibernate Tips that can boost up your application performance](https://www.youtube.com/watch?v=48w_8i9mCoM&t=95s&ab_channel=Devoxx) by **VLAD MIHALCEA** [52:17]
 
 #### Security
 
